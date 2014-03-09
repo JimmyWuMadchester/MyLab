@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Lab</string>
+
+    <string name="menudemo_screen_content">Menu Demo\nIs Now Active</string>
+    <string name="menudemo_livecard_content">Menu Demo\nIs Currently Active</string>
+
+    <string name="livecard_menu_activity_title">Menu</string>
+    <string name="livecard_menu_screen_content">GLab</string>
+
+    <!--  MenuDemoLocalService  -->
+    <string name="menudemo_localservice_started">Menu Demo Service started.</string>
+
+    <!--  For voice input  -->
+    <string name="menudemo_voice_trigger">Go to My Lab</string>
+    <string name="menudemo_voice_prompt">next action</string>
+
+    <!--  For menu  -->
+    <string name="menu_item_ask_menudemo_livecard">Ask Your Tutor</string>
+    <string name="menu_item_goto_menudemo_main">Back to Main</string>
+	<string name="menu_item_search_menudemo_main">Search the Wiki</string>
+	<string name="menu_item_note_menudemo_main">Make a Note</string>
+	
+	
+	
+	<string name="ask_tutor_str">Tutor is busy. Ask him next time!</string>
+</resources>
